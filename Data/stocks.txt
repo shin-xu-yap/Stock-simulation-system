@@ -1,0 +1,447 @@
+Stock Name           | Current Value  
+AFFIN                | 455.00         
+DXN                  | 341.00         
+FARM FRESH           | 347.00         
+OSK                  | 364.00         
+SARAWAK OIL PALMS    | 72.00          
+D&O                  | 147.00         
+UWC                  | 63.00          
+CHIN HIN             | 482.00         
+INARI AMERTRON       | 383.00         
+KOSSAN               | 215.00         
+AXIS                 | 342.00         
+GREATECH             | 285.00         
+GREATECH             | 285.00         
+MI                   | 36.00          
+FARM FRESH           | 347.00         
+HIBISCUS             | 353.00         
+SUNWAY               | 474.00         
+GAMUDA               | 277.00         
+TIME DOTCOM          | 253.00         
+MALAYAN CEMENT       | 223.00         
+MATRIX CONCEPTS      | 350.00         
+GAMUDA               | 277.00         
+LOTTE                | 34.00          
+DAYANG               | 84.00          
+KPJ                  | 116.00         
+ITMAX                | 345.00         
+MALAYSIA AIRPORTS    | 221.00         
+ASTRO                | 123.00         
+PADINI               | 41.00          
+VELESTO ENERGY       | 485.00         
+ECO WORLD            | 350.00         
+YINSON HOLDINGS      | 41.00          
+KPJ                  | 116.00         
+TOP GLOVE            | 20.00          
+YINSON HOLDINGS      | 41.00          
+ALLIANCE             | 190.00         
+GAMUDA               | 277.00         
+ALLIANCE             | 190.00         
+DRB-HICOM            | 142.00         
+PADINI               | 41.00          
+MALAYSIAN RESOURCES  | 142.00         
+UCHI                 | 121.00         
+HEINEIKEN            | 470.00         
+WCE HOLDINGS         | 307.00         
+WCE HOLDINGS         | 307.00         
+HIBISCUS             | 353.00         
+UMW HOLDINGS         | 15.00          
+BERMAZ               | 429.00         
+FRONTKEN             | 498.00         
+MALAYSIAN PACIFIC    | 165.00         
+GREATECH             | 285.00         
+YINSON HOLDINGS      | 41.00          
+BUMI                 | 320.00         
+OSK                  | 364.00         
+BURSA                | 208.00         
+UEM SURISE           | 332.00         
+DAGANG               | 306.00         
+VELESTO ENERGY       | 485.00         
+PADINI               | 41.00          
+SP SETIA             | 491.00         
+ALLIANCE             | 192.04         
+AXIS                 | 345.87         
+KOSSAN               | 217.30         
+KPJ                  | 116.30         
+GUAN CHONG           | 403.05         
+MALAYSIAN PACIFIC    | 165.49         
+BOUSTEAD             | 320.02         
+SARAWAK OIL PALMS    | 72.08          
+DAGANG               | 308.73         
+FARM FRESH           | 351.02         
+DIALOG               | 134.63         
+ECO WORLD            | 350.00         
+AFFIN                | 455.00         
+YINSON HOLDINGS      | 41.00          
+DXN                  | 341.00         
+KPJ                  | 116.00         
+FARM FRESH           | 347.00         
+TOP GLOVE            | 20.00          
+OSK                  | 364.00         
+YINSON HOLDINGS      | 41.00          
+SARAWAK OIL PALMS    | 72.00          
+ALLIANCE             | 190.00         
+D&O                  | 147.00         
+GAMUDA               | 277.00         
+UWC                  | 63.00          
+ALLIANCE             | 190.00         
+CHIN HIN             | 482.00         
+DRB-HICOM            | 142.00         
+INARI AMERTRON       | 383.00         
+PADINI               | 41.00          
+KOSSAN               | 215.00         
+MALAYSIAN RESOURCES  | 142.00         
+AXIS                 | 342.00         
+UCHI                 | 121.00         
+GREATECH             | 285.00         
+HEINEIKEN            | 470.00         
+GREATECH             | 285.00         
+WCE HOLDINGS         | 307.00         
+MI                   | 36.00          
+WCE HOLDINGS         | 307.00         
+FARM FRESH           | 347.00         
+HIBISCUS             | 353.00         
+HIBISCUS             | 353.00         
+UMW HOLDINGS         | 15.00          
+SUNWAY               | 474.00         
+BERMAZ               | 429.00         
+GAMUDA               | 277.00         
+FRONTKEN             | 498.00         
+TIME DOTCOM          | 253.00         
+MALAYSIAN PACIFIC    | 165.00         
+MALAYAN CEMENT       | 223.00         
+GREATECH             | 285.00         
+MATRIX CONCEPTS      | 350.00         
+YINSON HOLDINGS      | 41.00          
+GAMUDA               | 277.00         
+BUMI                 | 320.00         
+LOTTE                | 34.00          
+OSK                  | 364.00         
+DAYANG               | 84.00          
+BURSA                | 208.00         
+KPJ                  | 116.00         
+UEM SURISE           | 332.00         
+ITMAX                | 345.00         
+DAGANG               | 306.00         
+MALAYSIA AIRPORTS    | 221.00         
+VELESTO ENERGY       | 485.00         
+ASTRO                | 123.00         
+PADINI               | 41.00          
+PADINI               | 41.00          
+SP SETIA             | 491.00         
+VELESTO ENERGY       | 485.00         
+ALLIANCE             | 192.04         
+ECO WORLD            | 350.00         
+AFFIN                | 455.00         
+YINSON HOLDINGS      | 41.00          
+DXN                  | 341.00         
+KPJ                  | 116.00         
+FARM FRESH           | 347.00         
+TOP GLOVE            | 20.00          
+OSK                  | 364.00         
+YINSON HOLDINGS      | 41.00          
+SARAWAK OIL PALMS    | 72.00          
+ALLIANCE             | 190.00         
+D&O                  | 147.00         
+GAMUDA               | 277.00         
+UWC                  | 63.00          
+ALLIANCE             | 190.00         
+CHIN HIN             | 482.00         
+DRB-HICOM            | 142.00         
+INARI AMERTRON       | 383.00         
+PADINI               | 41.00          
+KOSSAN               | 215.00         
+MALAYSIAN RESOURCES  | 142.00         
+AXIS                 | 342.00         
+UCHI                 | 121.00         
+GREATECH             | 285.00         
+HEINEIKEN            | 470.00         
+GREATECH             | 285.00         
+WCE HOLDINGS         | 307.00         
+MI                   | 36.00          
+WCE HOLDINGS         | 307.00         
+FARM FRESH           | 347.00         
+HIBISCUS             | 353.00         
+HIBISCUS             | 353.00         
+UMW HOLDINGS         | 15.00          
+SUNWAY               | 474.00         
+BERMAZ               | 429.00         
+GAMUDA               | 277.00         
+FRONTKEN             | 498.00         
+TIME DOTCOM          | 253.00         
+MALAYSIAN PACIFIC    | 165.00         
+MALAYAN CEMENT       | 223.00         
+GREATECH             | 285.00         
+MATRIX CONCEPTS      | 350.00         
+YINSON HOLDINGS      | 41.00          
+GAMUDA               | 277.00         
+BUMI                 | 320.00         
+LOTTE                | 34.00          
+OSK                  | 364.00         
+DAYANG               | 84.00          
+BURSA                | 208.00         
+KPJ                  | 116.00         
+UEM SURISE           | 332.00         
+ITMAX                | 345.00         
+DAGANG               | 306.00         
+MALAYSIA AIRPORTS    | 221.00         
+VELESTO ENERGY       | 485.00         
+ASTRO                | 123.00         
+PADINI               | 41.00          
+PADINI               | 41.00          
+SP SETIA             | 491.00         
+VELESTO ENERGY       | 485.00         
+ALLIANCE             | 192.04         
+AXIS                 | 345.87         
+KOSSAN               | 217.30         
+KPJ                  | 116.30         
+GUAN CHONG           | 403.05         
+MALAYSIAN PACIFIC    | 165.49         
+BOUSTEAD             | 320.02         
+SARAWAK OIL PALMS    | 72.08          
+DAGANG               | 308.73         
+FARM FRESH           | 351.02         
+DIALOG               | 134.63         
+MI                   | 36.24          
+KPJ                  | 116.54         
+BAT                  | 314.25         
+OSK                  | 364.33         
+HIBISCUS             | 354.36         
+MALAYSIA AIRPORTS    | 221.39         
+UNISEM(M)            | 162.23         
+ECO WORLD            | 352.72         
+GAS                  | 319.62         
+DXN                  | 341.24         
+PADINI               | 41.45          
+AFFIN                | 455.71         
+UNISEM(M)            | 162.83         
+SCIENTEX             | 144.70         
+VELESTO ENERGY       | 486.85         
+CHIN HIN             | 488.15         
+FRONTKEN             | 501.91         
+UNISEM(M)            | 163.39         
+MY E.G.              | 383.21         
+MALAYSIAN PACIFIC    | 165.83         
+MALAYSIAN RESOURCES  | 143.06         
+PADINI               | 41.21          
+SUPERMAX             | 236.49         
+BUMI                 | 320.37         
+AFFIN                | 457.52         
+MI                   | 36.44          
+MAH SING             | 483.92         
+GAMUDA               | 278.18         
+BAT                  | 311.65         
+FARM FRESH           | 348.11         
+CHIN HIN             | 488.16         
+DAGANG               | 307.72         
+KPJ                  | 116.53         
+DXN                  | 344.61         
+FRONTKEN             | 499.29         
+BERJAYA              | 287.24         
+MALAYSIA AIRPORTS    | 221.86         
+UEM SURISE           | 332.78         
+WCE HOLDINGS         | 308.37         
+UMW HOLDINGS         | 15.19          
+AXIS                 | 345.86         
+TA ANN               | 417.76         
+SUPERMAX             | 236.43         
+MAH SING             | 486.33         
+DAGANG               | 308.95         
+SUNWAY               | 477.94         
+MALAYSIA BUILDING    | 158.11         
+BUMI                 | 321.50         
+UWC                  | 63.25          
+MALAYSIAN PACIFIC    | 167.02         
+VELESTO ENERGY       | 490.96         
+GREATECH             | 286.29         
+ECO WORLD            | 352.96         
+PENTAMASTER          | 267.01         
+CHIN HIN             | 486.15         
+TA ANN               | 419.76         
+CTOS                 | 163.81         
+DXN                  | 344.25         
+AEON                 | 325.63         
+BUMI                 | 322.60         
+HEINEIKEN            | 474.74         
+SCIENTEX             | 145.33         
+GAS                  | 320.04         
+BUMI                 | 322.33         
+DAYANG               | 84.90          
+MAH SING             | 486.24         
+BAT                  | 313.58         
+MI                   | 36.04          
+MI                   | 36.01          
+KOSSAN               | 216.20         
+DRB-HICOM            | 143.40         
+BERMAZ               | 432.40         
+KOSSAN               | 216.45         
+PADINI               | 41.17          
+MALAYAN CEMENT       | 225.73         
+D&O                  | 147.09         
+TSH RESOURCES        | 490.60         
+TOP GLOVE            | 20.24          
+GAMUDA               | 280.05         
+HARTALEGA            | 353.13         
+HEINEIKEN            | 471.77         
+BUMI                 | 321.47         
+UMW HOLDINGS         | 15.05          
+DAGANG               | 309.60         
+HARTALEGA            | 355.08         
+AXIS                 | 346.25         
+GREATECH             | 285.46         
+ECO WORLD            | 350.00         
+AFFIN                | 455.00         
+YINSON HOLDINGS      | 41.00          
+DXN                  | 341.00         
+KPJ                  | 116.00         
+FARM FRESH           | 347.00         
+TOP GLOVE            | 20.00          
+OSK                  | 364.00         
+YINSON HOLDINGS      | 41.00          
+SARAWAK OIL PALMS    | 72.00          
+ALLIANCE             | 190.00         
+D&O                  | 147.00         
+GAMUDA               | 277.00         
+UWC                  | 63.00          
+ALLIANCE             | 190.00         
+CHIN HIN             | 482.00         
+DRB-HICOM            | 142.00         
+INARI AMERTRON       | 383.00         
+PADINI               | 41.00          
+KOSSAN               | 215.00         
+MALAYSIAN RESOURCES  | 142.00         
+AXIS                 | 342.00         
+UCHI                 | 121.00         
+GREATECH             | 285.00         
+HEINEIKEN            | 470.00         
+GREATECH             | 285.00         
+WCE HOLDINGS         | 307.00         
+MI                   | 36.00          
+WCE HOLDINGS         | 307.00         
+FARM FRESH           | 347.00         
+HIBISCUS             | 353.00         
+HIBISCUS             | 353.00         
+UMW HOLDINGS         | 15.00          
+SUNWAY               | 474.00         
+BERMAZ               | 429.00         
+GAMUDA               | 277.00         
+FRONTKEN             | 498.00         
+TIME DOTCOM          | 253.00         
+MALAYSIAN PACIFIC    | 165.00         
+MALAYAN CEMENT       | 223.00         
+GREATECH             | 285.00         
+MATRIX CONCEPTS      | 350.00         
+YINSON HOLDINGS      | 41.00          
+GAMUDA               | 277.00         
+BUMI                 | 320.00         
+LOTTE                | 34.00          
+OSK                  | 364.00         
+DAYANG               | 84.00          
+BURSA                | 208.00         
+KPJ                  | 116.00         
+UEM SURISE           | 332.00         
+ITMAX                | 345.00         
+DAGANG               | 306.00         
+MALAYSIA AIRPORTS    | 221.00         
+VELESTO ENERGY       | 485.00         
+ASTRO                | 123.00         
+PADINI               | 41.00          
+PADINI               | 41.00          
+SP SETIA             | 491.00         
+VELESTO ENERGY       | 485.00         
+ALLIANCE             | 192.04         
+AXIS                 | 345.87         
+KOSSAN               | 217.30         
+KPJ                  | 116.30         
+GUAN CHONG           | 403.05         
+MALAYSIAN PACIFIC    | 165.49         
+BOUSTEAD             | 320.02         
+SARAWAK OIL PALMS    | 72.08          
+DAGANG               | 308.73         
+FARM FRESH           | 351.02         
+DIALOG               | 134.63         
+MI                   | 36.24          
+KPJ                  | 116.54         
+BAT                  | 314.25         
+OSK                  | 364.33         
+HIBISCUS             | 354.36         
+MALAYSIA AIRPORTS    | 221.39         
+UNISEM(M)            | 162.23         
+ECO WORLD            | 352.72         
+GAS                  | 319.62         
+DXN                  | 341.24         
+PADINI               | 41.45          
+AFFIN                | 455.71         
+UNISEM(M)            | 162.83         
+SCIENTEX             | 144.70         
+VELESTO ENERGY       | 486.85         
+CHIN HIN             | 488.15         
+FRONTKEN             | 501.91         
+UNISEM(M)            | 163.39         
+MY E.G.              | 383.21         
+MALAYSIAN PACIFIC    | 165.83         
+MALAYSIAN RESOURCES  | 143.06         
+PADINI               | 41.21          
+SUPERMAX             | 236.49         
+BUMI                 | 320.37         
+AFFIN                | 457.52         
+MI                   | 36.44          
+MAH SING             | 483.92         
+GAMUDA               | 278.18         
+BAT                  | 311.65         
+FARM FRESH           | 348.11         
+CHIN HIN             | 488.16         
+DAGANG               | 307.72         
+KPJ                  | 116.53         
+DXN                  | 344.61         
+FRONTKEN             | 499.29         
+BERJAYA              | 287.24         
+MALAYSIA AIRPORTS    | 221.86         
+UEM SURISE           | 332.78         
+WCE HOLDINGS         | 308.37         
+UMW HOLDINGS         | 15.19          
+AXIS                 | 345.86         
+TA ANN               | 417.76         
+SUPERMAX             | 236.43         
+MAH SING             | 486.33         
+DAGANG               | 308.95         
+SUNWAY               | 477.94         
+MALAYSIA BUILDING    | 158.11         
+BUMI                 | 321.50         
+UWC                  | 63.25          
+MALAYSIAN PACIFIC    | 167.02         
+VELESTO ENERGY       | 490.96         
+GREATECH             | 286.29         
+ECO WORLD            | 352.96         
+PENTAMASTER          | 267.01         
+CHIN HIN             | 486.15         
+TA ANN               | 419.76         
+CTOS                 | 163.81         
+DXN                  | 344.25         
+AEON                 | 325.63         
+BUMI                 | 322.60         
+HEINEIKEN            | 474.74         
+SCIENTEX             | 145.33         
+GAS                  | 320.04         
+BUMI                 | 322.33         
+DAYANG               | 84.90          
+MAH SING             | 486.24         
+BAT                  | 313.58         
+MI                   | 36.04          
+MI                   | 36.01          
+KOSSAN               | 216.20         
+DRB-HICOM            | 143.40         
+BERMAZ               | 432.40         
+KOSSAN               | 216.45         
+PADINI               | 41.17          
+MALAYAN CEMENT       | 225.73         
+D&O                  | 147.09         
+TSH RESOURCES        | 490.60         
+TOP GLOVE            | 20.24          
+GAMUDA               | 280.05         
+HARTALEGA            | 353.13         
+HEINEIKEN            | 471.77         
+BUMI                 | 321.47         
+UMW HOLDINGS         | 15.05          
+DAGANG               | 309.60         
+HARTALEGA            | 355.08         
